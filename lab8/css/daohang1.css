@@ -1,0 +1,17 @@
+#titlediv{background-image:url(images/left_nav_title.gif);background-repeat:no-repeat;height:45px;width:200px;}
+.no1{margin-left: 60px;padding-top:15px;color:white;}
+ul{background-image:url(images/left_nav_txt.gif);background-repeat:repeat-y;list-style-image:url(images/left_cur.gif);list-style-position:inside;margin-top:0px;margin-bottom:0px;padding-left:0px;}
+li{background-image:url(images/left_nav_item.gif);background-repeat:no-repeat;margin-top:0px;height:30px;width:200px;padding-left:40px;padding-top:10px;}
+#footerdiv{background-image:url(images/left_nav_bottom.gif);background-repeat:no-repeat;height:40px;width:200px;}
+.checked{color:red;}
+.no2{background-image:url(images/left_nav_item.gif);background-repeat:no-repeat;margin-top:0px;height:5px;width:200px;padding-left:40px;padding-top:10px;}
+a{text-decoration:none;color:black;}
+
+
+
+
+
+
+
+
+

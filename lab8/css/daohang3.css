@@ -1,0 +1,7 @@
+.menu{background-image:url(images/bg.gif);height:100px;background-repeat:no-repeat;}
+	ul{list-style-type:none;font-style:normal;}
+	li{float:left;text-align:center;margin-left:45px;margin-top:38px;}
+	a{color:white;}
+	#greenp{color:#b9f605;}
+	.special{color:orange;}
+	a:link{text-decoration:none;}

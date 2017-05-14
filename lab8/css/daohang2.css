@@ -1,0 +1,7 @@
+.no3{background-image:url(images/header.png);background-repeat:no-repeat; height:60px;}
+.no2{background-image:url(images/lvbiaoti.png);background-repeat:no-repeat;height:40px;margin-top:10px;}
+.no1{background-image:url(images/bj.png);background-repeat:no-repeat;height:400px;}
+.no4{background-image:url(images/baibiaoti.png);background-repeat:no-repeat;height:40px;margin-top:10px;}
+ul{padding-left:28px;}
+li{list-style-type:none;width:200px;}
+a{text-decoration:none;display:block;margin-left: 40px;padding-top: 5px;}
