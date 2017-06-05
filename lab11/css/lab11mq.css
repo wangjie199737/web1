@@ -1,0 +1,5 @@
+        .image{width:208px;height:200px;float:left;border:1px solid #bebebe;margin:10px;}
+		div.image img{display:inline;margin:3px;border:1px solid #bebebe;width:200px;height:160px;}
+		.word1{text-align:center;}
+	    img{opacity:0.5;}
+	    a:hover img{opacity:1;border:1px solid #333333;}
